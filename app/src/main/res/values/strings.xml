@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FUNdiary</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Diary</string>
+    <string name="title_notifications">Tools</string>
+    <string name="little_tools_you_can_use">littletools</string>
+</resources>
